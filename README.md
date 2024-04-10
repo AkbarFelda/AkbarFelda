@@ -14,7 +14,7 @@
  
 🌱 I’m currently learning **Flutter and Tailwind**.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Honey never spoils**.
 
 📫 How to reach me **akbarfelda65@gmail.com**
 
